@@ -1,0 +1,12 @@
+.contact {
+  font-size: 25px;
+  margin-top: 15px;
+}
+
+.button {
+  width: 70px;
+  height: 25px;
+  border: rgb(33, 32, 32);
+  border-radius: 20%;
+  cursor: pointer;
+}
